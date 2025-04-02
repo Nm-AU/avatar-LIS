@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="capace">
+		<hamnosys_nonmanual/>
+		<hamnosys_manual>
+			<hampinch12open/>
+			<hamfingerstraightmod/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamunderchin/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamextfingerl/>
+			<hampalmd/>
+			<hamunderchin/>
+			<hamlrat/>
+			<hambetween/>
+			<hamshoulders/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>
