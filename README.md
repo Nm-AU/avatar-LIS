@@ -21,9 +21,10 @@ L'applicazione è stata sviluppata a partire dalle librerie fornite da CWASA e m
 ```
 ## Istruzioni per l'uso
 È necessaria l'installazione di Python e di un browser per poter visualizzare e interagire con la webapp.
-Per poter creare i Segni tramite notazione HamNoSys è possibile utilizzare l'applicazione scaricabile a questo link.
+Per poter creare i Segni tramite notazione HamNoSys è possibile utilizzare lo strumento [strumento HamNoSys Palette](https://www.fdr.uni-hamburg.de/record/9725#.YgKI8hNKhpI). Qualora si volesse evitare l'applicativo per la creazione dei segni, è disponibile anche un font, ma questo è rilasciato solo per sistema operativo MacOS.
 
 Per la traduzione da notazione HamNoSys a SigML è necessario installare lo strumento [HamNoSys2SigML](https://github.com/carolNeves/HamNoSys2SiGML)
+Viene fornito un scritp python (create_sigml.py) che può essere utilizzato per concatenare diversi segni. Lo script legge un file in input contenente le parole che si volgiono concatenare, e.g., per creare un frase; va a cercarle nella cartella contenente i segni in HamNoSys; concatena tutte le rappresentazioni e le trasforma in notazione SigML richiamando lo script HamNoSys2SigML.
 
 Per far partire l'avatar basterà, una volta scaricato il repository, entrare nella directory principale e eseguire il seguente comando:
 ```bash

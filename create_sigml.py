@@ -39,16 +39,17 @@ def process_file(input_filename, output_filename):
         print(f"Processing completed. Output written to {output_filename}")
 
 
-        # Step 6: Read output file and pass content to another script
-        #with open(output_filename, 'r', encoding='utf-8') as output_file:
-        #    output_content = output_file.read().strip()
-        
+        #Step 6: Read output file and pass content to another script
+        with open(output_filename, 'r', encoding='utf-8') as output_file:
+            output_content = output_file.read().strip()
+        print(f"content: {output_content}")
         #./HamNoSys2SiGML/Original/HamNoSys2SiGML.py
-       
-        # Print the exact command being executed
         
-        # Call another script with the output content as an argument
-        #os.system(f"python HamNoSys2SiGML/Original/HamNoSys2SiGML.py {output_content} \"{content}\" > sigml/demo.sigml")
+        #Call another script with the output content as an argument
+        cur_dir = os.getcwd()
+        os.chdir("HamNoSys2SiGML/Original/")
+        os.system(f"python HamNoSys2SiGML.py {output_content} > ../../sigml/abc.sigml")
+        os.chdir(cur_dir)
         #command=["python", "HamNoSys2SiGML/Original/HamNoSys2SiGML.py", f"{output_content}", f'"{content}"']
         #print(f"command {command}")
         #result = subprocess.run(["python", "./HamNoSys2SiGML/Original/HamNoSys2SiGML.py", print(f"{output_content}")], capture_output=True, text=True)
