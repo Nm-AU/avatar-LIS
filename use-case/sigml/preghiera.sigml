@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="preghiera">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="preghiera"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmul/>
+			<hampinkyside/>
+			<hamtouch/>
+			<hamreplace/>
+			<hampalml/>
+			<hampalm/>
+			<hamtouch/>
+			<hamcirclel/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamrepeatfromstart/>
+			<hamparbegin/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hampalmul/>
+			<hamplus/>
+			<hamreplace/>
+			<hamfinger23spread/>
+			<hamextfingerur/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamparbegin/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamreplace/>
+			<hamextfingerdo/>
+			<hambetween/>
+			<hamextfingerr/>
+			<hamparend/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

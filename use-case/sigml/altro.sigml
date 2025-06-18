@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="altro">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="altro"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingerul/>
+			<hampalmdr/>
+			<hamshoulders/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamextfingero/>
+			<hampalml/>
+			<hammover/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

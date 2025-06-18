@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="occhio">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="occhio"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamextfingeru/>
+			<hambetween/>
+			<hamextfingerul/>
+			<hampalml/>
+			<hameyes/>
+			<hamlrat/>
+			<hamtouch/>
+			<hamfingerplay/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

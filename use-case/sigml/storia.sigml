@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="storia">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="storia"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamflathand/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamplus/>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamparend/>
+			<hamfingerpad/>
+			<hamtouch/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamarcu/>
+			<hamfast/>
+			<hamparend/>
+			<hampalm/>
+			<hamclose/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

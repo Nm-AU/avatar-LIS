@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="discutere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="discutere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger2/>
+			<hamextfingerul/>
+			<hampalml/>
+			<hamunderchin/>
+			<hamclose/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hamplus/>
+			<hammoveo/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammoveo/>
+			<hamplus/>
+			<hammovei/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammovei/>
+			<hamplus/>
+			<hammoveo/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammoveo/>
+			<hamplus/>
+			<hammovei/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammovei/>
+			<hamplus/>
+			<hammoveo/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

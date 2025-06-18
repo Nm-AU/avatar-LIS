@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="potere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="potere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamparbegin/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamplus/>
+			<hamextfingero/>
+			<hampalmr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamlrat/>
+			<hamplus/>
+			<hamlrat/>
+			<hamchest/>
+			<hamparend/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamextfingerl/>
+			<hampalmd/>
+			<hamlrat/>
+			<hamshoulders/>
+			<hamtouch/>
+			<hammoved/>
+			<hamarcr/>
+			<hamlowerarm/>
+			<hamtouch/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

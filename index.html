@@ -23,12 +23,11 @@
         }
 
     // Play gloss words sequentially
-
-
+    
     function playGloss(){
         stopRequested = false; // Reset the stop request flag
         //var glossInput = document.getElementById("glossInput").value;
-        var glossInput = "demo";
+        var glossInput = "Battuta49";
         var glosses = findGlosses(glossInput);
         playGlossesSequentially(glosses, 0);
     }
@@ -57,7 +56,7 @@
     function isValidGloss(gloss) {
         var fileExists = false;
         var request = new XMLHttpRequest();
-        request.open('HEAD', "demo/" + gloss + ".sigml", false);
+        request.open('HEAD', "use-case/" + gloss + ".sigml", false);
         request.onload = function () {
             if (request.status == 200) {
                 fileExists = true;
@@ -69,7 +68,7 @@
         // Recursive function to play glosses sequentially
     function playGlossesSequentially(glosses, index) {
         if (index < glosses.length && !stopRequested) {
-            var sigmlURL = "demo/" + glosses[index] + ".sigml";
+            var sigmlURL = "use-case/" + glosses[index] + ".sigml";
             playSiGML(sigmlURL);
             playingTimeout = setTimeout(function () {
                 playGlossesSequentially(glosses, index + 1);

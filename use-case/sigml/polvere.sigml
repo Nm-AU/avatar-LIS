@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="polvere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="polvere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hampinch12open/>
+			<hamfingerstraightmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamfingerplay/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingerul/>
+			<hambetween/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamparend/>
+			<hamfingerplay/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

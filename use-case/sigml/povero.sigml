@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="povero">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="povero"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinch12open/>
+			<hamfingerstraightmod/>
+			<hammiddlefinger/>
+			<hamringfinger/>
+			<hampinky/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger23spread/>
+			<hamthumbacrossmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamfingerhookmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamlips/>
+			<hamlrat/>
+			<hambetween/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger23/>
+			<hamthumbacrossmod/>
+			<hammiddlefinger/>
+			<hamfingernail/>
+			<hamindexfinger/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamreplace/>
+			<hampalmul/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamshouldertop/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

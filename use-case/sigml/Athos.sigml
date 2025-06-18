@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="Athos">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="Athos"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamhead/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamindexfinger/>
+			<hamfingerstraightmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger23/>
+			<hamextfingerul/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hampalmd/>
+			<hamshoulders/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

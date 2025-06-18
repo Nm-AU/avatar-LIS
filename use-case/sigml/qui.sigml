@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="qui">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="qui"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamextfingerd/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveu/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveu/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamfast/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

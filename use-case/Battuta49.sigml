@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="imperatore">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="imperatore"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger23spread/>
+			<hamthumboutmod/>
+			<hamextfingerul/>
+			<hampalmd/>
+			<hamlrat/>
+			<hamshouldertop/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshouldertop/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="forte">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="fonte"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfist/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerul/>
+			<hampalml/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamfusionbegin/>
+			<hamparbegin/>
+			<hammovei/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammoveo/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamfusionend/>
+			<hamrepeatfromstart/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="avere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="essere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingerl/>
+			<hampalmu/>
+			<hamshoulders/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hamfast/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<hns_sign gloss="">
+		<hamnosys_nonmanual/>
+		<hamnosys_manual>
+			<hamneutralspace/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

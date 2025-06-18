@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="dottorato">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="dottorato"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingerdl/>
+			<hampalmd/>
+			<hamplus/>
+			<hamfinger23/>
+			<hamfingerbendmod/>
+			<hamextfingeror/>
+			<hampalmdr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hamlrat/>
+			<hamchest/>
+			<hambetween/>
+			<hamshoulders/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamnodding/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamfinger23/>
+			<hamfingerbendmod/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamplus/>
+			<hamreplace/>
+			<hamfinger23/>
+			<hamfingerbendmod/>
+			<hamextfingeru/>
+			<hampalmdr/>
+			<hamparend/>
+			<hammoved/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

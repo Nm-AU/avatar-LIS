@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="intanto">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="intanto"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hampinky/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamringfinger/>
+			<hamdoublehooked/>
+			<hampinky/>
+			<hamdoublehooked/>
+			<hamextfingerd/>
+			<hampalmdr/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamindexfinger/>
+			<hamfingerstraightmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamhead/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamringfinger/>
+			<hamdoublehooked/>
+			<hampinky/>
+			<hamdoublehooked/>
+			<hamextfingerd/>
+			<hampalmdr/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamindexfinger/>
+			<hamfingerstraightmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamshouldertop/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

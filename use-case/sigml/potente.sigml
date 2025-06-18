@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="potente">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="potente"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfist/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamchest/>
+			<hamlrat/>
+			<hamfusionbegin/>
+			<hamparbegin/>
+			<hammoveu/>
+			<hamfast/>
+			<hammovei/>
+			<hamfast/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamparend/>
+			<hamfusionend/>
+			<hamrepeatfromstart/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="trasformare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="trasformare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamplus/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hampalm/>
+			<hamclose/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamplus/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamparend/>
+			<hamparbegin/>
+			<hampalm/>
+			<hamplus/>
+			<hamchest/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

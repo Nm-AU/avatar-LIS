@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="religioso">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="religioso"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger23/>
+			<hamindexfinger/>
+			<hamfingerpad/>
+			<hammiddlefinger/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshouldertop/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

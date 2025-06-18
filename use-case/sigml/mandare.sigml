@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="mandare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="mandare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamextfingerd/>
+			<hambetween/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamparbegin/>
+			<hammoveol/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerul/>
+			<hampalmd/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

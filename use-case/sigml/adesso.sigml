@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="adesso">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="adesso"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingerl/>
+			<hambetween/>
+			<hamextfingero/>
+			<hampalmu/>
+			<hammoveu/>
+			<hamsmallmod/>
+			<hammoved/>
+			<hammoveu/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamfast/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

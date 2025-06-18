@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="colleghi">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="colleghi"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamceeall/>
+			<hamthumbopenmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamunderchin/>
+			<hamlrat/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hammover/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamfingerhookmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamlips/>
+			<hamlrat/>
+			<hambetween/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamextfingerul/>
+			<hampalmdr/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hambetween/>
+			<hamunderchin/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamextfingeruo/>
+			<hampalml/>
+			<hamreplace/>
+			<hamfinger23/>
+			<hamextfingerul/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hampinky/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshoulders/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

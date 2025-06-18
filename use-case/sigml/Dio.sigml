@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="Dio">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="Dio"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamchin/>
+			<hamlrat/>
+			<hamparbegin/>
+			<hammoveu/>
+			<hamlargemod/>
+			<hammoveo/>
+			<hammoveor/>
+			<hamsmallmod/>
+			<hamarcd/>
+			<hamlargemod/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="di">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="di"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamextfingerul/>
+			<hambetween/>
+			<hamextfingerl/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamswinging/>
+			<hamfast/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

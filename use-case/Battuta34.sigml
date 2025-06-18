@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="vero">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="vero"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger23spread/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamfast/>
+			<hamreplace/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="miracolo">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="miracolo"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger23spread/>
+			<hamthumboutmod/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hamshouldertop/>
+			<hamparend/>
+			<hamcircleu/>
+			<hamrepeatfromstart/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="questa">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="quEsta"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamextfingerul/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamthumb/>
+			<hamfingernail/>
+			<hamindexfinger/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hammoveo/>
+			<hamsmallmod/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="piccolo">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="piccolo"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamthumbopenmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hampinch12/>
+			<hamfingerstraightmod/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="comunità">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="comunità"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger2345/>
+			<hamfingerbendmod/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerr/>
+			<hampalml/>
+			<hamchest/>
+			<hamreplace/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerl/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="avanti">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="avanti"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamparbegin/>
+			<hamhandback/>
+			<hamclose/>
+			<hamplus/>
+			<hamchest/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamparbegin/>
+			<hammoveo/>
+			<hamarcu/>
+			<hamlargemod/>
+			<hamparend/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="mandare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="mandare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamextfingerd/>
+			<hambetween/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamparbegin/>
+			<hammoveol/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerul/>
+			<hampalmd/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="">
+		<hamnosys_nonmanual/>
+		<hamnosys_manual>
+			<hamneutralspace/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

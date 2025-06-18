@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="Sicilia">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="Sicilia"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hampinky/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamceeall/>
+			<hamthumbopenmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamunderchin/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hampinky/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hampinky/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

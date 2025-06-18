@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="cosa">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="casa"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingerul/>
+			<hampalmr/>
+			<hamtouch/>
+			<hamchest/>
+			<hamparbegin/>
+			<hammover/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamfusionbegin/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamfusionend/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

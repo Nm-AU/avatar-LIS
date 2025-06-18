@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="alcuni">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="alcuni"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinch12open/>
+			<hammiddlefinger/>
+			<hamextfingeru/>
+			<hampalmdr/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamceeopen/>
+			<hammiddlefinger/>
+			<hamreplace/>
+			<hampinch12open/>
+			<hammiddlefinger/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamreplace/>
+			<hamceeopen/>
+			<hammiddlefinger/>
+			<hamreplace/>
+			<hampinch12open/>
+			<hammiddlefinger/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamreplace/>
+			<hamceeopen/>
+			<hammiddlefinger/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

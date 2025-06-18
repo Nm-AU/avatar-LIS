@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="bisogno">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="bisogno"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamfinger2/>
+			<hamextfingerol/>
+			<hampalml/>
+			<hamplus/>
+			<hamfinger2/>
+			<hamextfingerr/>
+			<hampalmr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hampinkyside/>
+			<hamclose/>
+			<hamplus/>
+			<hamchest/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammoveu/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveu/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

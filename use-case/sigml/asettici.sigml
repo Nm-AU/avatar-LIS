@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="asettici">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="asettici"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamhead/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamfingerhookmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamlips/>
+			<hamlrat/>
+			<hambetween/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamindexfinger/>
+			<hamfingerstraightmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hampinky/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamceeall/>
+			<hamthumbopenmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamunderchin/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hampinky/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshoulders/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

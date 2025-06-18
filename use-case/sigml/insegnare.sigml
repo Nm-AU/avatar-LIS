@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="insegnare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="insegnare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamplus/>
+			<hamflathand/>
+			<hamextfingerr/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamplus/>
+			<hamchest/>
+			<hamlrat/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamplus/>
+			<hamnomotion/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

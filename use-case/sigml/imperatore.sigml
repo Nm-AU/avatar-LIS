@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="imperatore">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="imperatore"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger23spread/>
+			<hamthumboutmod/>
+			<hamextfingerul/>
+			<hampalmd/>
+			<hamlrat/>
+			<hamshouldertop/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshouldertop/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="osservare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="osservare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamceeall/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamhead/>
+			<hamcirclei/>
+			<hamsmallmod/>
+			<hamrepeatfromstart/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

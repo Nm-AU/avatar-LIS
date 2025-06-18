@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="conoscenza">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="conoscenza"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2345/>
+			<hamthumbopenmod/>
+			<hamextfingerol/>
+			<hampalml/>
+			<hamforehead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="esistere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="esistere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingerl/>
+			<hampalmu/>
+			<hamshoulders/>
+			<hamfusionbegin/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamfusionend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

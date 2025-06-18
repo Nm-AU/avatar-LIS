@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="Padre">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="Padre"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamhead/>
+			<hamparbegin/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamreplace/>
+			<hampinch12/>
+			<hamfingerstraightmod/>
+			<hampalml/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

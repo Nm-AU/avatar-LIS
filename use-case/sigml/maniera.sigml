@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="maniera">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="maniera"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamhead/>
+			<hamclose/>
+			<hamparbegin/>
+			<hammoved/>
+			<hamarcr/>
+			<hamparend/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamwavy/>
+			<hamsmallmod/>
+			<hamreplace/>
+			<hamfist/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamparbegin/>
+			<hamcirclei/>
+			<hamsmallmod/>
+			<hamplus/>
+			<hamcircleo/>
+			<hamsmallmod/>
+			<hamclocku/>
+			<hamparend/>
+			<hamrepeatfromstartseveral/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

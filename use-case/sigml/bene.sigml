@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="bene">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="bene"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinch12open/>
+			<hamfingerstraightmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamlrat/>
+			<hamshoulders/>
+			<hammover/>
+			<hamlargemod/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

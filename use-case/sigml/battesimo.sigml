@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="battesimo">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="battesimo"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamflathand/>
+			<hamextfingerl/>
+			<hampalmu/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hamarcu/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hampalm/>
+			<hamclose/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammoveu/>
+			<hamreplace/>
+			<hamextfingeror/>
+			<hampalmr/>
+			<hammoveor/>
+			<hamsmallmod/>
+			<hammoveil/>
+			<hamsmallmod/>
+			<hammoveir/>
+			<hamsmallmod/>
+			<hammoveol/>
+			<hamsmallmod/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

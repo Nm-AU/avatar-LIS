@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="loro">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="loro"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamflathand/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hampalmdr/>
+			<hamshoulders/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

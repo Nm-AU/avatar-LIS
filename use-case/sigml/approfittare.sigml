@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="approfittare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="approfittare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingerul/>
+			<hampalmdr/>
+			<hamhead/>
+			<hamlrat/>
+			<hambetween/>
+			<hamchin/>
+			<hamreplace/>
+			<hampalmdl/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamfist/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerur/>
+			<hammoveor/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

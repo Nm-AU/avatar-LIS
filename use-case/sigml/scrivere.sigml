@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="scrivere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="scrivere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmpar/>
+			<hamparbegin/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingeruo/>
+			<hampalmul/>
+			<hamplus/>
+			<hampinch12/>
+			<hamfingerstraightmod/>
+			<hammiddlefinger/>
+			<hamfingerstraightmod/>
+			<hamextfingeruo/>
+			<hambetween/>
+			<hamextfingeru/>
+			<hampalmr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamlrat/>
+			<hamplus/>
+			<hamchest/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamstirccw/>
+			<hamstirccw/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

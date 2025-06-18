@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="accadere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="accadere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfist/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumbopenmod/>
+			<hamextfingero/>
+			<hamchest/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

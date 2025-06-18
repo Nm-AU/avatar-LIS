@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="cercare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="cercare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger23spread/>
+			<hamthumbacrossmod/>
+			<hamextfingerul/>
+			<hampalmdr/>
+			<hamshoulders/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamcircleuo/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamcircleui/>
+			<hamsmallmod/>
+			<hamplus/>
+			<hamcircleuo/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamcircleui/>
+			<hamsmallmod/>
+			<hamplus/>
+			<hamcircleuo/>
+			<hamsmallmod/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

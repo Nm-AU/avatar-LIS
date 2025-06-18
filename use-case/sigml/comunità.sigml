@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="comunità">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="comunità"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger2345/>
+			<hamfingerbendmod/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerr/>
+			<hampalml/>
+			<hamchest/>
+			<hamreplace/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerl/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

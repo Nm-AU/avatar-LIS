@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="legato">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="legato"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmpar/>
+			<hamparbegin/>
+			<hampinch12open/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamplus/>
+			<hampinch12open/>
+			<hamextfingeru/>
+			<hampalmdr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamshoulders/>
+			<hamplus/>
+			<hampalm/>
+			<hamclose/>
+			<hamparend/>
+			<hammover/>
+			<hammovel/>
+			<hammover/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

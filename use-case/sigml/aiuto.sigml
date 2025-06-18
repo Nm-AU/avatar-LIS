@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="aiuto">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="aiuto"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamflathand/>
+			<hamextfingerol/>
+			<hampalmu/>
+			<hamparbegin/>
+			<hamindexfinger/>
+			<hamfingertip/>
+			<hamtouch/>
+			<hamplus/>
+			<hamindexfinger/>
+			<hamfingertip/>
+			<hamtouch/>
+			<hamparend/>
+			<hammoveo/>
+			<hamarcu/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

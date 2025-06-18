@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="criticare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="criticare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hampinch12open/>
+			<hamfingerstraightmod/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshoulders/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammovedr/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammovedl/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamplus/>
+			<hammoveul/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammoveur/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamplus/>
+			<hammovedr/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="preoccupare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="preoccupare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamshoulders/>
+			<hambetween/>
+			<hamshouldertop/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamfingerbendmod/>
+			<hamextfingeru/>
+			<hamhead/>
+			<hamlrat/>
+			<hambetween/>
+			<hamforehead/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamfingerbendmod/>
+			<hamextfingeru/>
+			<hamhead/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshoulders/>
+			<hambetween/>
+			<hamshouldertop/>
+			<hamswinging/>
+			<hamfast/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

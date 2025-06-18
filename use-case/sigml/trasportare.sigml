@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="trasportare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="trasportare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmpar/>
+			<hamfinger23spread/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerur/>
+			<hampalml/>
+			<hamchest/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamfast/>
+			<hamreplace/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerul/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammover/>
+			<hamfast/>
+			<hamreplace/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerur/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamfast/>
+			<hamreplace/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerul/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

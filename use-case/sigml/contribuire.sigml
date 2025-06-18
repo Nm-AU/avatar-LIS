@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="contribuire">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="contribuire"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamflathand/>
+			<hamextfingerl/>
+			<hampalmu/>
+			<hamplus/>
+			<hamflathand/>
+			<hamfingerbendmod/>
+			<hamextfingerr/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hampalm/>
+			<hamclose/>
+			<hamparend/>
+			<hammoveo/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

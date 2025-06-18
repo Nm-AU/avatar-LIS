@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="permettere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="permettere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinch12open/>
+			<hamfingermidjoint/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamunderchin/>
+			<hamtouch/>
+			<hamreplace/>
+			<hampinch12open/>
+			<hamextfingerl/>
+			<hampalmd/>
+			<hamneck/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

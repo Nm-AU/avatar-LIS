@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="vita">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="vita"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger23spread/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamshoulders/>
+			<hambetween/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamthumbside/>
+			<hamtouch/>
+			<hamplus/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamextfingero/>
+			<hampalmr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamparbegin/>
+			<hammover/>
+			<hamarcu/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamplus/>
+			<hamnomotion/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

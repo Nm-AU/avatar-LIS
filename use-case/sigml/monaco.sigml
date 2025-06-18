@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="monaco">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="monaco"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger2/>
+			<hamfingerbendmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamearlobe/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamfingerbendmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamfingerbendmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamearlobe/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamfingerbendmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamfingerbendmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamearlobe/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamfingerbendmod/>
+			<hamextfingero/>
+			<hampalml/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

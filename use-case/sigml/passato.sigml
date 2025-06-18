@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="passato">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="passato"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamfingerstraightmod/>
+			<hamextfingeru/>
+			<hambetween/>
+			<hamextfingeror/>
+			<hampalmu/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamparbegin/>
+			<hammovei/>
+			<hamarcu/>
+			<hamparend/>
+			<hammoveo/>
+			<hamparbegin/>
+			<hammovei/>
+			<hamarcu/>
+			<hamparend/>
+			<hammoveo/>
+			<hamparbegin/>
+			<hammovei/>
+			<hamarcu/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

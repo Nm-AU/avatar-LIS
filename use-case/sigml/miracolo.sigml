@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="miracolo">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="miracolo"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger23spread/>
+			<hamthumboutmod/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hamshouldertop/>
+			<hamparend/>
+			<hamcircleu/>
+			<hamrepeatfromstart/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

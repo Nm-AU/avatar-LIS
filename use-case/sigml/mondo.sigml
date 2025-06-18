@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="mondo">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="mondo"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamflathand/>
+			<hamfingerbendmod/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hambetween/>
+			<hamextfingerur/>
+			<hampalmul/>
+			<hamclose/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hambetween/>
+			<hamextfingero/>
+			<hampalmu/>
+			<hampinkyside/>
+			<hamtouch/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="giorno">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="giorno"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger2/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hamthumbside/>
+			<hamclose/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamtouch/>
+			<hammoveu/>
+			<hamlargemod/>
+			<hammoved/>
+			<hamlargemod/>
+			<hamtouch/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

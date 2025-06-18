@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="ispirare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="ispirare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger23spread/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hameyes/>
+			<hamlrat/>
+			<hamclose/>
+			<hammoveo/>
+			<hamreplace/>
+			<hamfist/>
+			<hamparbegin/>
+			<hammovei/>
+			<hamslow/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

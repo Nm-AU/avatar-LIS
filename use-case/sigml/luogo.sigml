@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="luogo">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="luogo"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamchest/>
+			<hamcircleu/>
+			<hamsmallmod/>
+			<hamrepeatfromstart/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

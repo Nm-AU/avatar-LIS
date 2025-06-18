@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="magia">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="magia"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumbopenmod/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

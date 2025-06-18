@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="sperare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="sperare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hampinky/>
+			<hamfingerstraightmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamchest/>
+			<hambetween/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hammovei/>
+			<hammoveo/>
+			<hamfast/>
+			<hammovei/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

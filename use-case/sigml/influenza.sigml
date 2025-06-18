@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="influenza">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="influenza"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmpar/>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingerur/>
+			<hambetween/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamwristback/>
+			<hamclose/>
+			<hammoveor/>
+			<hamslow/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="pietra">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="pietra"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmpar/>
+			<hamparbegin/>
+			<hamfist/>
+			<hamextfingero/>
+			<hampalmdl/>
+			<hamplus/>
+			<hamfist/>
+			<hamextfingerur/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hamthumbside/>
+			<hamclose/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveu/>
+			<hamsmallmod/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

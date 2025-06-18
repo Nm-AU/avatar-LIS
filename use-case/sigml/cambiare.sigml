@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="cambiare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="cambiare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamcirclel/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamcircler/>
+			<hamsmallmod/>
+			<hamrepeatfromstart/>
+			<hamplus/>
+			<hamcirclel/>
+			<hamsmallmod/>
+			<hamrepeatfromstart/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

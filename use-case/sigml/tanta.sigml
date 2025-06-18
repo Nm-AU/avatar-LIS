@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="tanti">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="tanta"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamextfingero/>
+			<hampalmu/>
+			<hamtouch/>
+			<hamchest/>
+			<hamparbegin/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamreplace/>
+			<hamceeall/>
+			<hamthumbopenmod/>
+			<hamfingerstraightmod/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamreplace/>
+			<hamceeall/>
+			<hamthumbopenmod/>
+			<hamfingerstraightmod/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamreplace/>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

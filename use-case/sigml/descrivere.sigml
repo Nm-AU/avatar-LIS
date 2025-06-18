@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="descrivere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="descrivere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamplus/>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamshouldertop/>
+			<hamplus/>
+			<hamthumb/>
+			<hamfingerpad/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamplus/>
+			<hamreplace/>
+			<hamextfingero/>
+			<hampalmr/>
+			<hamparend/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hampinch12open/>
+			<hamfingerbendmod/>
+			<hampalml/>
+			<hamplus/>
+			<hamreplace/>
+			<hampinch12open/>
+			<hamfingerbendmod/>
+			<hampalmr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamcirclel/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamcircler/>
+			<hamrepeatfromstart/>
+			<hamplus/>
+			<hamcirclel/>
+			<hamrepeatfromstart/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

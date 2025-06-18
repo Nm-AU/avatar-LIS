@@ -28,7 +28,7 @@ Viene fornito un scritp python (create_sigml.py) che può essere utilizzato per 
 
 Per far partire l'avatar basterà, una volta scaricato il repository, entrare nella directory principale e eseguire il seguente comando:
 ```bash
-python -m server.http 8000
+python -m http.server 8000
 ```
 Dopo di che collegarsi, da un browser, all'indirizzo 
 ```

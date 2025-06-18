@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="virtù">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="virtù"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinch12open/>
+			<hamfingerstraightmod/>
+			<hamextfingeru/>
+			<hampalmul/>
+			<hamear/>
+			<hamlrat/>
+			<hamreplace/>
+			<hampalmdl/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

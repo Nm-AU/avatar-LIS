@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="scuola">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="scuola"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingerol/>
+			<hampalmul/>
+			<hambetween/>
+			<hampalmu/>
+			<hamplus/>
+			<hampinch12/>
+			<hamfingerstraightmod/>
+			<hammiddlefinger/>
+			<hamfingerstraightmod/>
+			<hamextfingeruo/>
+			<hambetween/>
+			<hamextfingeru/>
+			<hampalmr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamlrat/>
+			<hamplus/>
+			<hampalm/>
+			<hamclose/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammoveol/>
+			<hamarcd/>
+			<hammoveir/>
+			<hammoveol/>
+			<hamarcd/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

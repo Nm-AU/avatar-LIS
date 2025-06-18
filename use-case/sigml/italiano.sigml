@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="ita">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="ita"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalmdl/>
+			<hamtouch/>
+			<hamneck/>
+			<hamparbegin/>
+			<hammoveo/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hampalmul/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="liano">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="liano"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamnondominant/>
+			<hamcee12/>
+			<hamextfingeru/>
+			<hampalmdr/>
+			<hamchin/>
+			<hammoved/>
+			<hamwavy/>
+			<hamdecreasing/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

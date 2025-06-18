@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="lasciare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="lasciare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmpar/>
+			<hamparbegin/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingeri/>
+			<hambetween/>
+			<hamextfingerdl/>
+			<hampalmr/>
+			<hamplus/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingeri/>
+			<hambetween/>
+			<hamextfingerdr/>
+			<hampalml/>
+			<hamparend/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamparbegin/>
+			<hammoveol/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamextfingerol/>
+			<hambetween/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamplus/>
+			<hamreplace/>
+			<hamextfingerol/>
+			<hambetween/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

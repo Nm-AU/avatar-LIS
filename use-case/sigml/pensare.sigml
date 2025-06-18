@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="pensare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="pensare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamextfingeru/>
+			<hampalmul/>
+			<hamhead/>
+			<hamlrat/>
+			<hamclose/>
+			<hamcirclel/>
+			<hamsmallmod/>
+			<hamrepeatfromstartseveral/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

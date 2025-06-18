@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="noi">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="noi"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamextfingerd/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamcircleu/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="tornare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="tornare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamflathand/>
+			<hamextfingero/>
+			<hampalmu/>
+			<hamplus/>
+			<hamfinger2/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamlrat/>
+			<hamplus/>
+			<hamlrat/>
+			<hamchest/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamparbegin/>
+			<hammover/>
+			<hamlargemod/>
+			<hamarcu/>
+			<hamreplace/>
+			<hamextfingerd/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamlrat/>
+			<hamplus/>
+			<hampalm/>
+			<hamtouch/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="tu">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="tu"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamshoulders/>
+			<hammoveo/>
+			<hamfast/>
+			<hamhalt/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="immaginazione">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="immaginazione"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfist/>
+			<hamextfingerl/>
+			<hampalmd/>
+			<hamheadtop/>
+			<hamclose/>
+			<hamparbegin/>
+			<hammover/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hampalml/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="dire">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="dire"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamchin/>
+			<hamtouch/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamextfingero/>
+			<hampalmu/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<hns_sign gloss="">
+		<hamnosys_nonmanual/>
+		<hamnosys_manual>
+			<hamneutralspace/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

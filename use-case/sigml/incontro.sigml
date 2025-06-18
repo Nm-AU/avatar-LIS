@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="incontro">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="incontro"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamfinger23/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamplus/>
+			<hamfinger23/>
+			<hamextfingeru/>
+			<hampalmdr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammovel/>
+			<hampalm/>
+			<hamtouch/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

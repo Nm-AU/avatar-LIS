@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="umiliarsi">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="umiliarsi"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger23/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamshoulders/>
+			<hammoveu/>
+			<hamsmallmod/>
+			<hamparbegin/>
+			<hammovei/>
+			<hamfast/>
+			<hamreplace/>
+			<hamextfingeri/>
+			<hampalmd/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

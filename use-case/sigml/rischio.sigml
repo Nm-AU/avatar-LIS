@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="rischio">
+		<hamnosys_nonmanual/>
+		<hamnosys_manual>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hammiddlefinger/>
+			<hamfingerstraightmod/>
+			<hamextfingeru/>
+			<hambetween/>
+			<hamextfingero/>
+			<hampalmul/>
+			<hamforehead/>
+			<hamlrat/>
+			<hamclose/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hammoved/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

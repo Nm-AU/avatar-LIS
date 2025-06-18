@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="tomba">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="tomba"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamclose/>
+			<hamchest/>
+			<hammovei/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamparbegin/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamarcu/>
+			<hamreplace/>
+			<hampalmdl/>
+			<hamparend/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hamthumbside/>
+			<hamtouch/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

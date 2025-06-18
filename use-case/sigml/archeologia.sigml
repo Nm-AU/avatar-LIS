@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="archeologia">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="archeologia"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamplus/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamplus/>
+			<hamlrat/>
+			<hamshoulders/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hampalmr/>
+			<hamlrat/>
+			<hamunderchin/>
+			<hamparend/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamfingerbendmod/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamlrat/>
+			<hamshoulders/>
+			<hamparend/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

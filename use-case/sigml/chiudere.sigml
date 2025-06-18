@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="chiudere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="chiudere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamindexfinger/>
+			<hamfingerbendmod/>
+			<hamextfingero/>
+			<hampalmul/>
+			<hamreplace/>
+			<hampalmd/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

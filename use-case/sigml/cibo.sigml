@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="cibo">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="cibo"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamlips/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hamfast/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="curare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="curare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hampinch12open/>
+			<hamfingerstraightmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamthumb/>
+			<hamtouch/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamcirclel/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamcircler/>
+			<hamplus/>
+			<hamcirclel/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

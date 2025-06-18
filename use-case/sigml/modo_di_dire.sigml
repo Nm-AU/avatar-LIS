@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="mododire">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="modo_di_dire"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamextfingeri/>
+			<hampalmd/>
+			<hamchest/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamextfingeri/>
+			<hampalmd/>
+			<hamchin/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalmu/>
+			<hamswinging/>
+			<hamsmallmod/>
+			<hamfast/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

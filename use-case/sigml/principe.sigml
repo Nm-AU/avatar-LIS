@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="principe">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="principe"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger23/>
+			<hammiddlefinger/>
+			<hamfingerstraightmod/>
+			<hamextfingerul/>
+			<hampalmd/>
+			<hamlrat/>
+			<hamshouldertop/>
+			<hamclose/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamextfingerdl/>
+			<hamchest/>
+			<hamlrat/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamneck/>
+			<hamlrat/>
+			<hamtouch/>
+			<hamparend/>
+			<hammoveor/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveil/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveor/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hammoveil/>
+			<hamsmallmod/>
+			<hamfast/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

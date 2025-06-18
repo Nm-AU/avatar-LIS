@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="autorità">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="autorità"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalmu/>
+			<hamplus/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamstomach/>
+			<hamlrat/>
+			<hamplus/>
+			<hamlrat/>
+			<hamshoulders/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammoveu/>
+			<hamlargemod/>
+			<hamplus/>
+			<hammoved/>
+			<hamlargemod/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

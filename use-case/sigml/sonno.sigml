@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="sonno">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="sonno"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2345/>
+			<hamthumbopenmod/>
+			<hamindexfinger/>
+			<hamfingerbendmod/>
+			<hammiddlefinger/>
+			<hamfingerbendmod/>
+			<hamringfinger/>
+			<hamdoublebent/>
+			<hampinky/>
+			<hamdoublebent/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamcheek/>
+			<hamlrat/>
+			<hamclose/>
+			<hamreplace/>
+			<hamextfingero/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

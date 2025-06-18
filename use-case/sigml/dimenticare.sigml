@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="dimenticare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="dimenticare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamhead/>
+			<hamlrat/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamlargemod/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumbopenmod/>
+			<hamextfingerul/>
+			<hampalmd/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

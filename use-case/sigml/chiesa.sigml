@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="chiesa">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="chiesa"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamflathand/>
+			<hamextfingerul/>
+			<hambetween/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamparbegin/>
+			<hamfingertip/>
+			<hamplus/>
+			<hamfingertip/>
+			<hamparend/>
+			<hamtouch/>
+			<hamshoulders/>
+			<hammoveo/>
+			<hamarcr/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="complesso">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="complessa"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamfingerbendmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamtouch/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamreplace/>
+			<hamextfingero/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamreplace/>
+			<hamextfingero/>
+			<hamparend/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="facile">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="facile"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamthumb/>
+			<hamfingerbendmod/>
+			<hamindexfinger/>
+			<hamdoublebent/>
+			<hammiddlefinger/>
+			<hamdoublebent/>
+			<hamringfinger/>
+			<hamdoublebent/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamcircled/>
+			<hamsmallmod/>
+			<hamrepeatfromstart/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="ogni">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="ogni"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamcirclel/>
+			<hamsmallmod/>
+			<hamrepeatfromstartseveral/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

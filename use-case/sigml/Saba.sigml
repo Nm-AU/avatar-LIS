@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="Saba">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="Saba"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamhead/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamflathand/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamhead/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

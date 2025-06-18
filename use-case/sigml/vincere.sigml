@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="vincere">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="vincere"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamindexfinger/>
+			<hamfingerbendmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamparbegin/>
+			<hammoveu/>
+			<hamsmallmod/>
+			<hamfast/>
+			<hamreplace/>
+			<hampalmu/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

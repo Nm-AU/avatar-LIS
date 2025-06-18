@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="due">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="due"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger23spread/>
+			<hamthumbacrossmod/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamshoulders/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

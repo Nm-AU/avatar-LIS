@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="Spirito_Santo">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="Spirito_Santo"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamparbegin/>
+			<hamhead/>
+			<hamlrat/>
+			<hamplus/>
+			<hamindexfinger/>
+			<hamclose/>
+			<hamparend/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamslow/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hampalmd/>
+			<hamparend/>
+			<hamheadtop/>
+			<hambetween/>
+			<hamhead/>
+			<hamparbegin/>
+			<hammovei/>
+			<hammovei/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

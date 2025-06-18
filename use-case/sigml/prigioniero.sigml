@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="persona">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="prig"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamcee12/>
+			<hamextfingero/>
+			<hampalml/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hammoved/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="prigioniero_2">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="ionero"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfist/>
+			<hamextfingerl/>
+			<hambetween/>
+			<hamextfingero/>
+			<hampalmd/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hamwristback/>
+			<hamclose/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

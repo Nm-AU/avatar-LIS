@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="bevanda_1">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="beva"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamflathand/>
+			<hamthumbopenmod/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamplus/>
+			<hamflathand/>
+			<hamthumbopenmod/>
+			<hamextfingerr/>
+			<hampalmr/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamthumbside/>
+			<hamclose/>
+			<hamplus/>
+			<hamchest/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamparbegin/>
+			<hammoveu/>
+			<hamreplace/>
+			<hamfist/>
+			<hamparend/>
+			<hamplus/>
+			<hamnomotion/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="bevanda_2">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="nda"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamchin/>
+			<hamlrat/>
+			<hamclose/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hammovei/>
+			<hamsmallmod/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hammovei/>
+			<hamsmallmod/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

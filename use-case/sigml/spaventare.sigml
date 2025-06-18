@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="spaventare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="spaventare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmpar/>
+			<hamparbegin/>
+			<hamfist/>
+			<hamplus/>
+			<hamfist/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamplus/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamparend/>
+			<hamshoulders/>
+			<hamparbegin/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamreplace/>
+			<hamextfingerd/>
+			<hambelowstomach/>
+			<hamlrat/>
+			<hamplus/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hampalmr/>
+			<hamreplace/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingerur/>
+			<hampalmr/>
+			<hamchest/>
+			<hambetween/>
+			<hamlrat/>
+			<hamshoulders/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

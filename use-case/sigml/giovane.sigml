@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="giovane">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="giovane"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinchall/>
+			<hamfingerstraightmod/>
+			<hamextfingeror/>
+			<hampalmu/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamextfingerol/>
+			<hampalmu/>
+			<hamfast/>
+			<hamreplace/>
+			<hamextfingeror/>
+			<hampalmu/>
+			<hamfast/>
+			<hamreplace/>
+			<hamextfingerol/>
+			<hampalmu/>
+			<hamfast/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

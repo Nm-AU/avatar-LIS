@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="interessante">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="interessante"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamindexfinger/>
+			<hamfingerbendmod/>
+			<hamextfingeril/>
+			<hampalmd/>
+			<hamcheek/>
+			<hamlrat/>
+			<hambetween/>
+			<hamchin/>
+			<hamclose/>
+			<hamstircw/>
+			<hamfast/>
+			<hamrepeatfromstartseveral/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

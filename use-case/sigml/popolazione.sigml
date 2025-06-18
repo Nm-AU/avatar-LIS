@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="popolazione">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="popolazione"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamcee12/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamchin/>
+			<hamlrat/>
+			<hamparbegin/>
+			<hammoved/>
+			<hamplus/>
+			<hamnomotion/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammoveu/>
+			<hamplus/>
+			<hammoved/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammoved/>
+			<hamplus/>
+			<hammoveu/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammoveu/>
+			<hamplus/>
+			<hammoved/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamparbegin/>
+			<hammoved/>
+			<hammover/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamplus/>
+			<hamparbegin/>
+			<hammoveu/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammoved/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

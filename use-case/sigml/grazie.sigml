@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="grazie">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="grazie"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hampinch12open/>
+			<hamfingerstraightmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamhead/>
+			<hamlrat/>
+			<hammoveil/>
+			<hamsmallmod/>
+			<hammoveor/>
+			<hamsmallmod/>
+			<hammoveil/>
+			<hamsmallmod/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="Carla">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="Carla"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamceeall/>
+			<hamthumbopenmod/>
+			<hamextfingeru/>
+			<hampalml/>
+			<hamunderchin/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamhead/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfinger23/>
+			<hamthumbacrossmod/>
+			<hammiddlefinger/>
+			<hamfingernail/>
+			<hamindexfinger/>
+			<hamextfingeru/>
+			<hampalmdl/>
+			<hamshouldertop/>
+			<hamlrat/>
+			<hamreplace/>
+			<hampalmul/>
+			<hamreplace/>
+			<hamfinger2/>
+			<hamthumboutmod/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamreplace/>
+			<hamfist/>
+			<hamextfingeru/>
+			<hampalmd/>
+			<hamhead/>
+			<hamlrat/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

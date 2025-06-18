@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="miracolo">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="miracolo"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger23spread/>
+			<hamthumboutmod/>
+			<hamextfingerl/>
+			<hampalml/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamreplace/>
+			<hamextfingeru/>
+			<hamshouldertop/>
+			<hamparend/>
+			<hamcircleu/>
+			<hamrepeatfromstart/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="poco">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="poco"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfist/>
+			<hamextfingero/>
+			<hampalmu/>
+			<hamshoulders/>
+			<hamlrat/>
+			<hamreplace/>
+			<hamfist/>
+			<hamthumb/>
+			<hamfingerbendmod/>
+			<hamindexfinger/>
+			<hamfingerbendmod/>
+			<hamreplace/>
+			<hamfist/>
+			<hamreplace/>
+			<hamfist/>
+			<hamthumb/>
+			<hamfingerbendmod/>
+			<hamindexfinger/>
+			<hamfingerbendmod/>
+			<hamreplace/>
+			<hamfist/>
+			<hamreplace/>
+			<hamfist/>
+			<hamthumb/>
+			<hamfingerbendmod/>
+			<hamindexfinger/>
+			<hamfingerbendmod/>
+			<hamreplace/>
+			<hamfist/>
+		</hamnosys_manual>
+	</hns_sign>
+	<hns_sign gloss="usare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="usare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamfinger23/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerl/>
+			<hampalmd/>
+			<hamplus/>
+			<hamfinger23/>
+			<hamextfingerr/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hamhandback/>
+			<hamtouch/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammover/>
+			<hamsmallmod/>
+			<hammovei/>
+			<hamarcu/>
+			<hamsmallmod/>
+			<hamparend/>
+			<hamparbegin/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hammoveo/>
+			<hamsmallmod/>
+			<hamarcd/>
+			<hamparend/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+
+	<hns_sign gloss="">
+		<hamnosys_nonmanual/>
+		<hamnosys_manual>
+			<hamneutralspace/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

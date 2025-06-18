@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="andare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="andare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamflathand/>
+			<hamthumbacrossmod/>
+			<hamextfingerol/>
+			<hampalml/>
+			<hamshoulders/>
+			<hamparbegin/>
+			<hammoveol/>
+			<hamarcu/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

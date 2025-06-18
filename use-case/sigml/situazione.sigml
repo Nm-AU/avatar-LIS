@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="situazione">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="situazione"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamfinger2/>
+			<hamextfingeru/>
+			<hampalmu/>
+			<hamparbegin/>
+			<hamcircleu/>
+			<hamsmallmod/>
+			<hamrepeatfromstart/>
+			<hamplus/>
+			<hamcircled/>
+			<hamsmallmod/>
+			<hamrepeatfromstart/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

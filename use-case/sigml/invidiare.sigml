@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="invidiare">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="invidiare"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamfinger2/>
+			<hamextfingerl/>
+			<hampalmd/>
+			<hamshoulders/>
+			<hamclose/>
+			<hamparbegin/>
+			<hammoved/>
+			<hamsmallmod/>
+			<hamtense/>
+			<hammovel/>
+			<hamsmallmod/>
+			<hamfusionbegin/>
+			<hamreplace/>
+			<hamextfingerdl/>
+			<hampalmdl/>
+			<hamreplace/>
+			<hampalmd/>
+			<hamfusionend/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

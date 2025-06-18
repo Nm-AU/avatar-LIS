@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="sopra">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="sopra"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingero/>
+			<hambetween/>
+			<hamextfingerl/>
+			<hampalmd/>
+			<hamplus/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingerr/>
+			<hampalmd/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hampalm/>
+			<hamclose/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammovel/>
+			<hamparbegin/>
+			<hammoved/>
+			<hammover/>
+			<hamarcu/>
+			<hamparend/>
+			<hamparend/>
+			<hamhandback/>
+			<hamclose/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>

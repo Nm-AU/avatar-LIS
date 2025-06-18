@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+	<hns_sign gloss="racconto">
+		<hamnosys_nonmanual>
+			<hnm_mouthpicture picture="racconto"/>
+		</hamnosys_nonmanual>
+		<hamnosys_manual>
+			<hamsymmlr/>
+			<hamparbegin/>
+			<hamflathand/>
+			<hamthumboutmod/>
+			<hamextfingerol/>
+			<hampalmu/>
+			<hamplus/>
+			<hamfinger2345/>
+			<hamthumboutmod/>
+			<hamextfingerr/>
+			<hampalmur/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamchest/>
+			<hamplus/>
+			<hampalm/>
+			<hamclose/>
+			<hamparend/>
+			<hamparbegin/>
+			<hamnomotion/>
+			<hamplus/>
+			<hammoveol/>
+			<hamfast/>
+			<hammoveir/>
+			<hammoveol/>
+			<hamfast/>
+			<hammoveir/>
+			<hamparend/>
+		</hamnosys_manual>
+	</hns_sign>
+</sigml>
